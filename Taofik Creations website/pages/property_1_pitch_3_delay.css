@@ -1,0 +1,35 @@
+.property-1-pitch-3-delay .rectangle-15 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.property-1-pitch-3-delay .with-each-others-help-ihope-that-we-can-both-secure-asuccessful-future-for-ourselves {
+  position: relative;
+  margin: 83px 121px 78.1px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 300;
+  font-size: 48px;
+  color: #000000;
+}
+.property-1-pitch-3-delay .rectangle-16 {
+  backdrop-filter: blur(5px);
+  border-radius: 50px;
+  border: 4px solid rgba(6, 252, 119, 0.83);
+  background: url('../assets/images/rectangle_16.jpeg') 50% / cover no-repeat;
+  position: relative;
+  width: 617px;
+  height: 385.1px;
+}
+.property-1-pitch-3-delay {
+  display: flex;
+  flex-direction: row;
+  padding: 70px 62px 71.8px 65px;
+  width: 1418px;
+  box-sizing: border-box;
+}

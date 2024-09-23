@@ -1,0 +1,32 @@
+.property-1-services-above .services {
+  margin-bottom: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 48px;
+  color: #000000;
+}
+.property-1-services-above .rectangle-6 {
+  background: linear-gradient(90deg, #0FFFFF, #0B06FF);
+  width: 1px;
+  height: 3px;
+}
+.property-1-services-above .rectangle-7 {
+  background: linear-gradient(90deg, #0FFFFF, #0B06FF);
+  width: 1px;
+  height: 3px;
+}
+.property-1-services-above .container {
+  margin-right: 15.7px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 15.7px);
+  box-sizing: border-box;
+}
+.property-1-services-above {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}

@@ -1,0 +1,24 @@
+.property-1-thumbnails-services .thumbnails {
+  margin: 0 0 34px 64.1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 900;
+  font-size: 50px;
+  color: #000000;
+}
+.property-1-thumbnails-services .joyful-web-developer-engrossed-in-their-work-1 {
+  border-radius: 50px;
+  background: url('../assets/images/joyful_web_developer_engrossed_in_their_work_1.jpeg') 50% / cover no-repeat;
+  width: 613px;
+  height: 565px;
+}
+.property-1-thumbnails-services {
+  border-radius: 50px;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 45px;
+  box-sizing: border-box;
+}

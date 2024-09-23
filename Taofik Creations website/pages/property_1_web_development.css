@@ -1,0 +1,14 @@
+.property-1-web-development .web-development {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 900;
+  font-size: 50px;
+  color: #000000;
+}
+.property-1-web-development {
+  border-radius: 50px;
+  background: #FFFFFF;
+  display: flex;
+  padding: 45px 0 0 79.3px;
+  box-sizing: border-box;
+}

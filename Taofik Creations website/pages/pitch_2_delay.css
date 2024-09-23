@@ -1,0 +1,35 @@
+.pitch-2-delay .rectangle-12 {
+  mix-blend-mode: darken;
+  background: rgba(3, 223, 253, 0.61);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.pitch-2-delay .rectangle-13 {
+  border-radius: 50px;
+  background: url('../assets/images/rectangle_13.png') 50% / cover no-repeat;
+  position: relative;
+  margin-right: 44px;
+  width: 679px;
+  height: 420.1px;
+}
+.pitch-2-delay .but-rather-than-websites-as-afocus-ican-perform-other-tasks-such-as-copyrighting-and-editing {
+  position: relative;
+  margin: 98.4px 0 97.7px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 300;
+  font-size: 48px;
+  color: #000000;
+}
+.pitch-2-delay {
+  display: flex;
+  flex-direction: row;
+  padding: 73.6px 54.4px 79.3px 30px;
+  width: 1419.6px;
+  box-sizing: border-box;
+}

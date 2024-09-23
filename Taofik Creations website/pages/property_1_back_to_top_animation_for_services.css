@@ -1,0 +1,15 @@
+.property-1-back-to-top-animation-for-services .back-to-top {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 300;
+  font-size: 24px;
+  color: #000000;
+}
+.property-1-back-to-top-animation-for-services {
+  border-radius: 100px;
+  border: 2px solid rgba(0, 0, 0, 0.76);
+  background: #FFFFFF;
+  display: flex;
+  padding: 2px 9.4px;
+  box-sizing: border-box;
+}

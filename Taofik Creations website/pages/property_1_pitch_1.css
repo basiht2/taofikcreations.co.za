@@ -1,0 +1,11 @@
+.property-1-pitch-1 .rectangle-10 {
+  mix-blend-mode: darken;
+  background: linear-gradient(180deg, rgba(250, 255, 5, 0.37), rgba(237, 241, 16, 0.37));
+  width: 1418px;
+  height: 711px;
+}
+.property-1-pitch-1 {
+  display: flex;
+  width: 1418px;
+  box-sizing: border-box;
+}

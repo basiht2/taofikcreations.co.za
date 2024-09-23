@@ -1,0 +1,35 @@
+.property-1-about-below .about {
+  margin-bottom: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 48px;
+  color: #000000;
+}
+.property-1-about-below .rectangle-4 {
+  background: linear-gradient(90deg, #0FFFFF, #0B06FF);
+  height: 3px;
+  flex-grow: 1;
+  flex-basis: 63px;
+}
+.property-1-about-below .rectangle-5 {
+  background: linear-gradient(90deg, #0B06FF, #0FFFFF);
+  height: 3px;
+  flex-grow: 1;
+  flex-basis: 55px;
+}
+.property-1-about-below .container {
+  margin-right: 10.7px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 10.7px);
+  box-sizing: border-box;
+}
+.property-1-about-below {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}

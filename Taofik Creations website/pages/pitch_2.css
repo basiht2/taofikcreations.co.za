@@ -1,0 +1,11 @@
+.pitch-2 .rectangle-12 {
+  mix-blend-mode: darken;
+  background: rgba(3, 223, 253, 0.61);
+  width: 1418px;
+  height: 573px;
+}
+.pitch-2 {
+  display: flex;
+  width: 1418px;
+  box-sizing: border-box;
+}

@@ -1,0 +1,30 @@
+.property-1-web-design-service .web-design {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 900;
+  font-size: 50px;
+  color: #000000;
+}
+.property-1-web-design-service .container {
+  border-radius: 50px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 51.5px 0 0 35.5px;
+  width: 100%;
+  height: 703px;
+  box-sizing: border-box;
+}
+.property-1-web-design-service .night-owl {
+  border-radius: 50px;
+  background: url('../assets/images/night_owl.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 563px;
+}
+.property-1-web-design-service {
+  padding-right: 1px;
+  box-sizing: border-box;
+}

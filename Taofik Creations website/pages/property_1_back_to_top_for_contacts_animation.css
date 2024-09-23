@@ -1,0 +1,15 @@
+.property-1-back-to-top-for-contacts-animation .back-to-top {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 300;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.property-1-back-to-top-for-contacts-animation {
+  border-radius: 100px;
+  border: 2px solid #FFFFFF;
+  background: #000000;
+  display: flex;
+  padding: 2px 12.4px;
+  box-sizing: border-box;
+}

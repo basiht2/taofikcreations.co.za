@@ -1,0 +1,30 @@
+.property-1-web-development-services .web-development {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 900;
+  font-size: 50px;
+  color: #000000;
+}
+.property-1-web-development-services .container {
+  border-radius: 50px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 45px 0 0 79.3px;
+  width: 100%;
+  height: 703px;
+  box-sizing: border-box;
+}
+.property-1-web-development-services .code-typing-customizable-cartoon-illustrations-bro-style {
+  border-radius: 50px;
+  background: url('../assets/images/code_typing_customizable_cartoon_illustrations_bro_style.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  left: 1px;
+  right: 0px;
+  bottom: 0px;
+  height: 565px;
+}
+.property-1-web-development-services {
+  padding-right: 1px;
+  box-sizing: border-box;
+}

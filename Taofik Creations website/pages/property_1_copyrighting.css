@@ -1,0 +1,14 @@
+.property-1-copyrighting .copyrighting {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 900;
+  font-size: 50px;
+  color: #000000;
+}
+.property-1-copyrighting {
+  border-radius: 50px;
+  background: #FFFFFF;
+  display: flex;
+  padding: 51.5px 0 0 21.3px;
+  box-sizing: border-box;
+}

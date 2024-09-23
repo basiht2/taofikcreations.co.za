@@ -1,0 +1,24 @@
+.property-1-copyrighting-service .copyrighting {
+  margin: 0 0 29.5px 21.3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 900;
+  font-size: 50px;
+  color: #000000;
+}
+.property-1-copyrighting-service .client-data-protection {
+  border-radius: 50px;
+  background: url('../assets/images/client_data_protection.jpeg') 50% / cover no-repeat;
+  width: 613px;
+  height: 563px;
+}
+.property-1-copyrighting-service {
+  border-radius: 50px;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 51.5px;
+  box-sizing: border-box;
+}

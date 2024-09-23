@@ -1,0 +1,32 @@
+.property-1-home-above .home {
+  margin-bottom: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 48px;
+  color: #000000;
+}
+.property-1-home-above .rectangle-2 {
+  background: linear-gradient(90deg, #0FFFFF, #0B06FF);
+  width: 1px;
+  height: 3px;
+}
+.property-1-home-above .rectangle-3 {
+  background: linear-gradient(90deg, #0FFFFF, #0B06FF);
+  width: 1px;
+  height: 3px;
+}
+.property-1-home-above .container {
+  margin-right: 12.8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 12.8px);
+  box-sizing: border-box;
+}
+.property-1-home-above {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
